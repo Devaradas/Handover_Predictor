@@ -1,0 +1,14 @@
+{
+  "regime": "lte",
+  "gate": 0.46,
+  "tau_cal": {
+    "1": 0.0189,
+    "0": 0.0267
+  },
+  "operating_point": {
+    "recall": 0.8156,
+    "precision": 0.7644,
+    "fa_per_min": 0.0737
+  },
+  "n_test_handovers": 385
+}

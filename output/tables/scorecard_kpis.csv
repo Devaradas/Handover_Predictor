@@ -1,0 +1,3 @@
+regime,test_min,HOP_per_min,HOPP_pct,DL_mean_Mbps,DL_median_Mbps,RLF_rate,gen_HO,raw_HO,pingpong
+5G,145.7,1.05,29.5,17.4,7.3,0.0392,153,217,64
+LTE,556.6,0.692,19.6,10.5,6.7,0.0255,385,479,94

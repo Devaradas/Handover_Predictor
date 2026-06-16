@@ -1,0 +1,3 @@
+regime,stage,recall,caught,handovers,true_alarms,false_alarms,precision,false_per_min
+5G,calibrated cascade,0.804,123,153,41,20,0.672,0.137
+LTE,calibrated cascade,0.816,314,385,133,41,0.764,0.074

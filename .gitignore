@@ -1,0 +1,14 @@
+# datasets - download separately, see README
+input/
+
+# python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# os cruft
+.DS_Store
+Thumbs.db
